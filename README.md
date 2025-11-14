@@ -1,2 +1,4 @@
-# Mint-to-Logic-Prototype-Work-in-Progress-Walkthrough-on-Tally,Airtable, and Make
+By proceeding, you acknowledge that the materials within this vault are proprietary intellectual property of Spencer Southern / Southern Star Pro. Studios LLC (SSPS™), protected under trade secret, copyright, and sovereign IP law. Accessing this vault constitutes your agreement to a binding NDA and licensing restriction. You agree not to copy, disclose, reverse-engineer, or distribute any portion of the contents. This gateway is monitored and time-stamped under Right Hand Protocol™. Violation triggers immediate enforcement.
+
+Mint-to-Logic-Prototype-Work-in-Progress-Walkthrough-on-Tally,Airtable, and Make
 Video walkthrough showing timestamped progress on the Mint-to Logic™ prototype starting April 16, 2025. Captured in Tally, this footage documents the live build of the Mint–Validate–Burn sequence and interface logic, serving as prior art and proof of original development.
